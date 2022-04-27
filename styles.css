@@ -33,13 +33,15 @@ div#resume {
   align-items: center;
   margin: auto;
   margin-top: 2rem;
-  padding: 1.2rem;
+  padding: 1.5rem;
   background-color: white;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
 section#heading {
   width: 100%;
+  padding-bottom: 10px;
+  font-size: 1.3rem;
 }
 
 div#name {
@@ -56,8 +58,8 @@ div#contact {
 div#web_links {
   color: #575757;
   text-align: center;
-  font-size: 0.95rem;
-  margin-top: 0.5rem;
+  font-size: 1.02rem;
+  margin-top: 0.8rem;
   margin-bottom: 0.8rem;
   display: flex;
   justify-content: space-around;
@@ -83,8 +85,8 @@ div.section_entry {
   flex-flow: row wrap;
   justify-content: space-between;
   font-size: 1.1rem;
-  margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
+  margin-top: 0.7rem;
+  margin-bottom: 0.7rem;
 }
 
 h3 {
@@ -105,7 +107,7 @@ div.details {
   padding-top: 0.3rem;
   padding-bottom: 0.3rem;
   color: #424242;
-  line-height: 1.1rem;
+  line-height: 1.2rem;
 }
 
 ul {
@@ -114,6 +116,7 @@ ul {
   padding-top: 0.3rem;
   padding-bottom: 0.3rem;
   margin: 0;
+  line-height: 1.4rem;
 }
 
 div#projects {
@@ -122,11 +125,11 @@ div#projects {
 }
 
 div#top_row {
-  padding-top: 50px;
+  padding-top: 20px;
 }
 
 div#bottom_row {
-  padding-top: 10px;
+  padding-top: 20px;
 }
 
 div.project {
